@@ -1,4 +1,4 @@
-name: Release Rhinestone Mockestrator
+name: Release Rhinestone Mockestrator Image
 
 on:
   pull_request:
